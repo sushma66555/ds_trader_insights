@@ -3,7 +3,7 @@ csv_Files/ → Contains all CSV datasets used for analysis.
 
 Untitled (1).ipynb → Main Jupyter/Colab notebook with analysis and visualizations.
 
-Untitled0.ipynb → Additional Colab notebook (if used).
+Untitled0.ipynb → Additional Colab notebooK
 
 Avg fee.png, Avg trade count.png, Avg trader PnL.png, Avg trading value.png → Plots generated during the analysis.
 
